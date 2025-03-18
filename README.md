@@ -37,7 +37,7 @@ Rock, Paper, Scissors is a classic command-line game implemented in Python. The 
 
 
 ## Demo
-![Rock, Paper, Scissors Demo](blob:https://imgur.com/3121d46f-6aea-4243-8b58-220c7d58fc0e)
+![Rock, Paper, Scissors Demo](https://i.imgur.com/0amkiVY.gif)
 
 
 ## License
